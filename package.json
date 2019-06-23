@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/brunork/robot-video-creator/issues"
   },
-  "homepage": "https://github.com/brunork/robot-video-creator#readme"
+  "homepage": "https://github.com/brunork/robot-video-creator#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
