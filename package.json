@@ -1,0 +1,19 @@
+{
+  "name": "robot-video-creator",
+  "version": "1.0.0",
+  "description": "Robot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunork/robot-video-creator.git"
+  },
+  "author": "BRKCZ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunork/robot-video-creator/issues"
+  },
+  "homepage": "https://github.com/brunork/robot-video-creator#readme"
+}
