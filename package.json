@@ -1,7 +1,7 @@
 {
   "name": "robot-video-creator",
   "version": "1.0.0",
-  "description": "Robot",
+  "description": "Robô criador de vídeos para o YouTube através de conteúdo extraído da Wikipedia",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
