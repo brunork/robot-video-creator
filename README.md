@@ -1,2 +1,8 @@
 # robot-video-creator
-Robot 
+
+Robô criador de vídeos para o YouTube a partir de pesquisa em conteúdo extraído do Wikipedia.
+
+# Credentials format
+## ALGORITHMIA
+
+File: `algorithmia.json`
