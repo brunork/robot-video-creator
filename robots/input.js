@@ -8,7 +8,7 @@ function robot() {
 
   content.searchTerm = askAndReturnSearchTerm()
   content.prefix = askAndReturnPrefix()
-  state.save(content)
+  state.save(content) 
 
   function askAndReturnSearchTerm() {
     return readline.question('Type a Wikipedia search term: ')
