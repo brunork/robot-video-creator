@@ -35,6 +35,6 @@ File: `google-search.json`
 ```
 {
     "apiKey": "YOUR_API_KEY_HERE",
-    "searchEngineId": "YOUR_SEARCH_ID_KEY_HERE"
+    "searchEngineId": "YOUR_SEARCH_ID_HERE"
 }
 ```
