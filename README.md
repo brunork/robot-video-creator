@@ -1,6 +1,6 @@
 # Robot Video Creator - POC
 
-Robot that creates YouTube videos from Wikipedia content (proof of concept)
+Robot that creates YouTube videos from Wikipedia and Google content (proof of concept)
 
 ## Credentials
 
@@ -35,6 +35,6 @@ File: `google-search.json`
 ```
 {
     "apiKey": "YOUR_API_KEY_HERE",
-    "searchEngineId": "YOUR_SEARCH_ID_HERE"
+    "searchEngineId": "YOUR_SEARCH_ENGINE_ID_HERE"
 }
 ```
